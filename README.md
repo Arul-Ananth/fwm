@@ -10,4 +10,5 @@ Make sure you have the following installed on your machine:
 
 
 build the frontend with build react app command 
+
 Build and run the Maven project
